@@ -64,4 +64,4 @@ Setelah instalasi selesai, Anda dapat menjalankan aplikasi menggunakan langkah b
 2. Jalankan pengujian dengan perintah:
    ```bash
    npm test
-   
+   ```
