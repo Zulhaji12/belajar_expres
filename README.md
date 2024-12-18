@@ -7,7 +7,7 @@ Proyek ini memiliki beberapa dependensi yang harus diinstal sebelum dapat dijala
 Mulai dengan mengkloning repositori ini ke komputer Anda menggunakan perintah berikut:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Zulhaji12/belajar_express.git
 ```
 
 ## Instalasi Dependensi
