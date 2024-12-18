@@ -8,6 +8,8 @@ Mulai dengan mengkloning repositori ini ke komputer Anda menggunakan perintah be
 
 ```bash
 git clone https://github.com/Zulhaji12/belajar_express.git
+
+cd belajar_express
 ```
 
 ## Instalasi Dependensi
